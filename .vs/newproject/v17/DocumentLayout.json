@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prdb\\Desktop\\IP1-21\\newproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{026733FB-6D25-4F4A-BB3A-B6B871B1BCAA}|newproject.csproj|c:\\users\\prdb\\desktop\\ip1-21\\newproject\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026733FB-6D25-4F4A-BB3A-B6B871B1BCAA}|newproject.csproj|solutionrelative:views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026733FB-6D25-4F4A-BB3A-B6B871B1BCAA}|newproject.csproj|c:\\users\\prdb\\desktop\\ip1-21\\newproject\\views\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{026733FB-6D25-4F4A-BB3A-B6B871B1BCAA}|newproject.csproj|solutionrelative:views\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\IP1-21\\newproject\\Views\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\IP1-21\\newproject\\Views\\MainWindow.axaml",
+              "RelativeToolTip": "Views\\MainWindow.axaml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-28T09:49:54.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\IP1-21\\newproject\\Views\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\IP1-21\\newproject\\Views\\MainWindow.axaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.axaml.cs",
+              "ViewState": "AQIAAAABAAAAAAAAAAAywBQBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:49:55.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
